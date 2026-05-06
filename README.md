@@ -11,7 +11,6 @@
 - ⚙️ Using __Node.js__, __Express.js__, __prisma__, __postgreSQL__.
 - 🌱 I’m currently learning __Generative AI__, __RAG__ and Docker. 
 - 💬 Ask me about __Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)__
-- 📫 How to reach me: __[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislam8877@gmail.com)__
 - 🌐 Explore My Portfolio: [**Portfolio**](https://portfolio-chi-livid-17.vercel.app/)
 - 📧 Feel free to reach me out: [**HERE**](mailto:tanvirulislam8877@gmail.com)
 
