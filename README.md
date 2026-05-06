@@ -1,4 +1,4 @@
-
+![Banner](./tanvirul_banner_fixed.png)
 
 
 ## Hi 👋, I'm Tanvirul Islam 
