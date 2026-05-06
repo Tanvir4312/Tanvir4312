@@ -3,18 +3,17 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5297e7&center=true&vCenter=true&width=600&lines=Hello+There+!+👋;This+is+Tanvirul+Islam...;Nice+to+meet+you+!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5297e7&center=true&vCenter=true&width=600&lines=Hello+There+!+👋;This+is+Tanvirul+Islam...;Nice+to+meet+you+!)](https://git.io/typing-svg)
 </div>
 <hr>
 <br><br><br>
-
 - 🔭 I’m currently working on __React.js__, __Next.js__, __typescript__ and __React Query__ for frontend.
 - ⚙️ Using __Node.js__, __Express.js__, __prisma__, __postgreSQL__.
 - 🌱 I’m currently learning __Generative AI__, __RAG__ and Docker. 
 - 💬 Ask me about __Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)__
 - 📫 How to reach me: __[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislam8877@gmail.com)__
-- 🌐 Explore My Portfolio: __[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://portfolio-chi-livid-17.vercel.app/)__
-- 📧 Feel free to reach me out: __[![HERE](https://img.shields.io/badge/HERE-D14836?style=for-the-badge&logo=gmail&logoColor=5297e7)](mailto:tanvirulislam8877@gmail.com)__
+- 🌐 Explore My Portfolio: [**Portfolio**](https://portfolio-chi-livid-17.vercel.app/)
+- 📧 Feel free to reach me out: [**HERE**](mailto:tanvirulislam8877@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirul.islam.129856) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirul-islam-929538244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislam8877@gmail.com) 
