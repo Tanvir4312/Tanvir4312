@@ -31,6 +31,7 @@
 </div>
 <br><br><br>
 [![Tanvir4312's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvir4312&theme=react-dark&color=5297e7&line=5297e7&point=ffffff&area=true&hide_border=true)](https://github.com/Tanvir4312)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanvir4312&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
