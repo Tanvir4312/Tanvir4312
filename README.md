@@ -7,6 +7,7 @@
 </div>
 <hr>
 <br><br><br>
+
 - 🔭 I’m currently working on __React.js__, __Next.js__, __typescript__ and __React Query__ for frontend.
 - ⚙️ Using __Node.js__, __Express.js__, __prisma__, __postgreSQL__.
 - 🌱 I’m currently learning __Generative AI__, __RAG__ and Docker. 
