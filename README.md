@@ -26,16 +26,9 @@
 ![](https://streak-stats.demolab.com/?user=Tanvir4312&theme=github_dark_dimmed&hide_border=false)<br/>
  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanvir4312&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br><br><br>
-[![Tanvirul's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=Tanvir4312&theme=tokyonight)](https://github.com/Tanvir4312)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanvir4312&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tanvir4312&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=Tanvir4312&icon=0&color=0)](https://visitcount.itsvg.in)
