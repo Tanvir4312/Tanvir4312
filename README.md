@@ -7,9 +7,15 @@
 </div>
 <hr>
 
+## 👨‍💻 About Me
+
+Full Stack Developer with hands-on experience in __React__, __Next.js__, __TypeScript__, __Node.js__, __Express__ & __PostgreSQL__.
+Passionate about building clean, scalable web applications that solve real-world problems.
+Always eager to learn, grow, and contribute to impactful projects.
+<br><br><br>
 - 🔭 I’m currently working on __React.js__, __Next.js__, __typescript__ and __React Query__ for frontend.
 - ⚙️ Using __Node.js__, __Express.js__, __prisma__, __postgreSQL__.
-- 🌱 I’m currently learning __Generative AI__, __RAG__ and Docker. 
+- 🌱 I’m currently learning __Generative AI__, __RAG__, __Basic Python__ and __Docker__. 
 - 💬 Ask me about __Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)__
 - 🌐 Explore My Portfolio: [**Portfolio**](https://portfolio-chi-livid-17.vercel.app/)
 - 📧 Feel free to reach me out: [**HERE**](https://mail.google.com/mail/?view=cm&to=tanvirulislam8877@gmail.com)
