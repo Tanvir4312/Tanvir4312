@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning __Generative AI__, __RAG__ and Docker. 
 - 💬 Ask me about __Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)__
 - 🌐 Explore My Portfolio: [**Portfolio**](https://portfolio-chi-livid-17.vercel.app/)
-- 📧 Feel free to reach me out: [**HERE**](mailto:tanvirulislam8877@gmail.com)
+- 📧 Feel free to reach me out: [**HERE**](https://mail.google.com/mail/?view=cm&to=tanvirulislam8877@gmail.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirul.islam.129856) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirul-islam-929538244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislam8877@gmail.com) 
@@ -30,6 +30,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanvir4312&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
-
+---
+[![](https://komarev.com/ghpvc/?username=Tanvir4312&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
