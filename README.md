@@ -5,8 +5,6 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5297e7&center=true&vCenter=true&width=600&lines=Hello+There+!+👋;This+is+Tanvirul+Islam...;Nice+to+meet+you+!)](https://git.io/typing-svg)
 </div>
-
-<br><br><br>
 <hr>
 <br><br><br>
 
