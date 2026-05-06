@@ -1,16 +1,12 @@
 ![Banner](./tanvirul_banner_fixed.png)
-
+<br><br><br>
 
 <div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=5297e7&center=true&vCenter=true&width=600&lines=Hello+There+!+👋;This+is+Tanvirul+Islam...;Nice+to+meet+you+!)](https://git.io/typing-svg)
-
 </div>
 
 <br><br><br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<hr>
 <br><br><br>
 
 - 🔭 I’m currently working on __React.js__, __Next.js__, __typescript__ and __React Query__ for frontend.
