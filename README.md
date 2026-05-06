@@ -24,13 +24,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Tanvir4312&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://streak-stats.demolab.com/?user=Tanvir4312&theme=github_dark_dimmed&hide_border=false)<br/>
-
-<div align='center'>
-  
-  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanvir4312&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
+ ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tanvir4312&theme=github_dark_dimmed&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br><br><br>
-[![Tanvir4312's github activity graph][(https://github-readme-activity-graph.vercel.app/graph?username=Tanvir4312&theme=react-dark&color=5297e7&line=5297e7&point=ffffff&area=true&hide_border=true)][(https://github-readme-activity-graph.vercel.app/graph?username=Tanvir4312&theme=react-dark&color=5297e7&line=5297e7&point=ffffff&area=true&hide_border=true)](https://github.com/Tanvir4312)](https://github.com/Tanvir4312)
+[![Tanvirul's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=Tanvir4312&theme=tokyonight)](https://github.com/Tanvir4312)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tanvir4312&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
