@@ -13,10 +13,8 @@
 - 🌱 I’m currently learning __Generative AI__, __RAG__ and Docker. 
 - 💬 Ask me about __Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)__
 - 📫 How to reach me: __[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislam8877@gmail.com)__
-- 🌐 Explore My Portfolio: __[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)]([https://yourportfolio.com/](https://portfolio-chi-livid-17.vercel.app/)__
-- 📧 Feel free to reach me out: __[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvirulislamm8877@gmail.com)__
-
-
+- 🌐 Explore My Portfolio: __[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome)](https://portfolio-chi-livid-17.vercel.app/)__
+- 📧 Feel free to reach me out: __[![HERE](https://img.shields.io/badge/HERE-D14836?style=for-the-badge&logo=gmail&logoColor=5297e7)](mailto:tanvirulislam8877@gmail.com)__
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tanvirul.islam.129856) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvirul-islam-929538244) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tanvirulislam8877@gmail.com) 
